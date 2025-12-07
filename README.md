@@ -4,7 +4,6 @@
 SQL-based analysis of e-commerce data to uncover customer behavior patterns, evaluate sales performance, and identify retention opportunities. This project demonstrates data analysis skills through structured SQL queries and business-focused insights.
 
 ## Key Findings
-
 - **Customer Conversion Challenge**: 44% of signups (4,423 users) never made a purchase, indicating significant drop-off in the conversion funnel
 - **Retention Performance**: 35% repeat purchase rate among buyers, within acceptable benchmarks but with room for improvement
 - **Revenue Concentration**: Customers highly dispersed geographically (largest city(North Michael): 13 of 10,000 users); Electronics category is clear revenue leader
