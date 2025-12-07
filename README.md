@@ -17,7 +17,7 @@ SQL-based analysis of e-commerce data to uncover customer behavior patterns, eva
 - **Data Visualization**: Interactive dashboard in Power BI showing key metrics and trends
 - **Analytical Thinking**: Connected data patterns to actionable business insights
 
-## Tools & Technologies
+## Tools 
 - SQL Server Management Studio
 - Power BI Desktop
 
